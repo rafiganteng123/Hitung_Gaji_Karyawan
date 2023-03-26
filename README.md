@@ -6,7 +6,7 @@ Hitung gaji karyawan merupakan hal yang penting dalam sebuah perusahaan. Dalam p
 4. Pendidikan
 5. Jumlah Anak
 
-== Dengan Outpu ==
+== Dengan Output ==
 1. Nama Karyawan
 2. Jenis Kelamin
 3. Golongan (1/2/3)
