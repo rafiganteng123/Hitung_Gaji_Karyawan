@@ -20,3 +20,5 @@ Hitung gaji karyawan merupakan hal yang penting dalam sebuah perusahaan. Dalam p
 9. Gaji Total
 
 ![Screenshot (63)](https://user-images.githubusercontent.com/113325901/227751966-cb534586-bef3-4ee2-bb51-497c6094a346.png)
+
+Untuk lebih jelasnya, teman-teman bisa mengklik link berikut untuk tutorialnya : https://rafipedia.gitbook.io/hitung-gaji-pegawai/
