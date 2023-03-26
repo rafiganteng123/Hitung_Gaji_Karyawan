@@ -18,3 +18,5 @@ Hitung gaji karyawan merupakan hal yang penting dalam sebuah perusahaan. Dalam p
 7. Tunjangan Pendidikan
 8. Tunjangan Anak
 9. Gaji Total
+
+![Screenshot (63)](https://user-images.githubusercontent.com/113325901/227751966-cb534586-bef3-4ee2-bb51-497c6094a346.png)
